@@ -41,7 +41,7 @@ This project involves implementing a phonebook application using Python Flask, D
 
 ## API Endpoints
 - **Authentication**
-  - `/PhoneBook/login (POST)` - Generate JWT token
+  - `/login (POST)` - Generate JWT token
 - **Phonebook Operations**
   - `/PhoneBook/list (GET)` - View the list of names and phone numbers
   - `/PhoneBook/add (POST)` - Add details to the database
