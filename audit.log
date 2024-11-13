@@ -1,0 +1,37 @@
+2024-11-09 21:39:39,198 - Person added: John Doe
+2024-11-09 21:39:39,234 - Person added: Alice Smith
+2024-11-09 21:39:39,279 - Person deleted: John Doe
+2024-11-09 21:39:39,303 - Person deleted with phone number: 54321
+2024-11-10 13:53:57,485 - Failed to add person: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2024-11-10 13:54:30,052 - Failed to add person: 'list' object has no attribute 'get'
+2024-11-10 13:55:04,151 - Person added: John Doe
+2024-11-10 14:18:28,158 - Person added: John
+2024-11-10 14:20:18,588 - Person added: Doe
+2024-11-10 15:35:19,733 - Person added: Supreetha
+2024-11-10 15:43:00,122 - Person added: Rob
+2024-11-10 16:28:34,116 - Person deleted: Rob
+2024-11-10 16:30:06,146 - Person not found for deletion: None
+2024-11-10 16:30:14,387 - Person not found for deletion: None
+2024-11-10 16:33:26,064 - Person not found for deletion: None
+2024-11-10 16:35:27,917 - Person deleted: None
+2024-11-10 16:36:16,969 - Person deleted: None
+2024-11-10 16:39:33,495 - Person not found for deletion: None
+2024-11-10 16:44:01,649 - Person deleted: Supreetha
+2024-11-10 16:44:35,437 - Person added: Rob
+2024-11-10 16:44:49,266 - Person added: Bob2024-11-10 19:14:39,362 - Person added: John Doe
+2024-11-10 19:14:39,392 - Person added: Alice Smith
+2024-11-10 19:14:39,434 - Person deleted: John Doe
+2024-11-10 19:14:39,459 - Person deleted with phone number: 54321
+2024-11-11 12:50:13,592 - Person added: Bob
+2024-11-11 13:03:25,072 - Person added: Alice Johnson
+2024-11-11 13:03:56,534 - Person deleted: Alice Johnson
+2024-11-11 13:05:03,753 - Person deleted with phone number: 777 111 2232
+2024-11-11 14:46:08,231 - Person added: Bob
+2024-11-11 14:46:22,070 - Person added: Rob
+2024-11-11 14:47:40,910 - Person added: John
+2024-11-11 16:25:00,453 - Person added: Alice Johnson
+2024-11-11 16:32:46,346 - Person deleted: Alice Johnson
+2024-11-11 16:55:30,704 - Person not found for deletion with phone number:  1(703)111-21210
+2024-11-11 16:56:22,793 - Person not found for deletion with phone number:  1(703)111-21210
+2024-11-11 16:57:39,354 - Person not found for deletion with phone number:  1(703)111-2121
+2024-11-11 16:58:38,184 - Person deleted with phone number: 888 111 2232

@@ -1,0 +1,4 @@
+Flask==2.1.2
+SQLAlchemy==1.4.32
+flask-jwt-extended==4.3.1
+pytest==7.1.2
